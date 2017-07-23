@@ -9,7 +9,7 @@ class HomePage extends React.Component{
             <div className="jumbotron">
                 <h1>React Slingshot</h1>
 
-                <h2>Get Started</h2>
+                <h2>Get Started Now</h2>
                 <Link to="about" className="btn btn-primary btn-lg" >Learn More </Link>
             </div>
         );
